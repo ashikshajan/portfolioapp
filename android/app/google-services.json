@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "883168967006",
+    "project_id": "portfolio-ashikshajan",
+    "storage_bucket": "portfolio-ashikshajan.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883168967006:android:0c4e2be63644212ad9f7cf",
+        "android_client_info": {
+          "package_name": "com.ashikshajan.portfolio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5Sw99srEcKxO6DbvTO3ABY6OY9CyGXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
